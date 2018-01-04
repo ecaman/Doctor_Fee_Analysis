@@ -1,4 +1,4 @@
-# Car Alerter
+# Doctor Fee
 To download this repository please do:
 ```
 git clone https://github.com/ecaman/Doctor_Fee_Analysis
